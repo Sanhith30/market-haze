@@ -1,0 +1,7 @@
+streamlit
+yfinance
+openmeteo-requests
+pandas
+plotly
+hypothesis
+pytest
