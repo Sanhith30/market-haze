@@ -164,11 +164,11 @@ tests/test_visualizations.py .................... [100%]
 ```
 
 ### Dashboard Features
-✅ Real-time data fetching from two APIs
-✅ Automatic data alignment and cleaning
-✅ Interactive Plotly visualizations
-✅ Correlation analysis with statistical validation
-✅ Comprehensive error handling
+ Real-time data fetching from two APIs
+ Automatic data alignment and cleaning
+Interactive Plotly visualizations
+Correlation analysis with statistical validation
+ Comprehensive error handling
 
 ## Key Takeaways
 
