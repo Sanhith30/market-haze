@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this blog post, I'll share my experience building **Market Haze**, a Streamlit dashboard that analyzes the correlation between Mumbai's Air Quality Index (AQI) and the Nifty 50 stock market index, using Kiro AI to accelerate development.
+I'll share my experience building **Market Haze**, a Streamlit dashboard that analyzes the correlation between Mumbai's Air Quality Index (AQI) and the Nifty 50 stock market index, using Kiro AI to accelerate development.
 
 ## The Problem
 
