@@ -152,7 +152,6 @@ df.index = df.index.tz_localize(None)
 
 ### Test Results
 ```
-========================== test session starts ==========================
 collected 63 items
 
 tests/property_tests/test_properties.py ........... [100%]
@@ -160,7 +159,6 @@ tests/test_data_loader.py ...................... [100%]
 tests/test_data_processor.py ...................... [100%]
 tests/test_visualizations.py .................... [100%]
 
-========================== 63 passed in 19.34s ==========================
 ```
 
 ### Dashboard Features
