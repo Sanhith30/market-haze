@@ -12,7 +12,6 @@ Understanding the relationship between environmental factors and market performa
 - Provides interactive visualizations
 - Ensures correctness through comprehensive testing
 
-...can be time-consuming and error-prone.
 
 ## The Solution: Market Haze
 
