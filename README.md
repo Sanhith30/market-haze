@@ -65,7 +65,7 @@ for Mumbai over the past year, so that I can understand air quality trends.
    in a time series visualization
 ```
 
-**Design Phase**: Kiro generated a comprehensive design document including:
+**Design Phase**:  generated a comprehensive design document including:
 - Component interfaces
 - Data models
 - **8 Correctness Properties** for property-based testing
