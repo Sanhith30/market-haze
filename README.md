@@ -100,7 +100,7 @@ This property runs 100+ iterations with randomly generated data, catching edge c
 
 ### 3. Code Generation and Debugging
 
-Kiro generated production-ready code with:
+ generated production-ready code with:
 - Comprehensive docstrings
 - Error handling
 - Type hints
