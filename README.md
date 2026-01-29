@@ -208,6 +208,6 @@ streamlit run app.py
 
 ---
 
-**Built with**: Python, Streamlit, Plotly, Pandas, Hypothesis, and Kiro AI
+**Built with**: Python, Streamlit, Plotly, Pandas, Hypothesis,
 
 **Tags**: #AI #DataScience #Streamlit #PropertyBasedTesting #KiroAI #Python
