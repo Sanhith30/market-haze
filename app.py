@@ -1,9 +1,4 @@
-"""
-Market Haze - Streamlit Dashboard
 
-A dashboard application that visualizes and analyzes the relationship between
-Mumbai's Air Quality Index (AQI) and the Nifty 50 stock market index.
-"""
 
 import streamlit as st
 import pandas as pd
